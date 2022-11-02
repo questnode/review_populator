@@ -1,0 +1,6 @@
+Test title
+John Doe
+2022-11-01
+This is a test review content meant to be parsed by auto populator.
+The result should adhere to the format consistent with the designated website.
+Once serialized, posting will be done.
