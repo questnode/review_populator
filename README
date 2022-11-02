@@ -1,0 +1,1 @@
+Automatically scan all files containing reviews.  Each files is parsed into proper review formats.  Result is posted to designated website to populate review database.
